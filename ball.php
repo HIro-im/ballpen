@@ -1,5 +1,6 @@
 <?php
 
+//スーパークラス
 class Ballpen
 {
   protected $knock = 0;
